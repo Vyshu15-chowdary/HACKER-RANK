@@ -11,7 +11,7 @@ public class Solution {
       int i = scanner.nextInt();
       double d = scanner.nextDouble();
       
-      scanner.nextLine();
+      scanner.nextLine(); //leftover a newline
     
     String s = scanner.nextLine();
     
